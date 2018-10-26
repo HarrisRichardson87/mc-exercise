@@ -1,5 +1,3 @@
- alice-and-ted
- alice-and-ted
 Ted and Alice started working on their own branch off the master and now things are happening and it is going to be bad. 
 whatdid the sushi say to the bee? wasssaabeeee!!
 
@@ -13,7 +11,6 @@ A: Canadian
 
 Q: What time was it when the monster ate the Canadian prime minister?
 A: Eight P.M.
- master
 
 Bob and Carol are doing very important stuff here. And this takes priority over reality. what a mess.
 
@@ -34,9 +31,12 @@ Ok Bob and Carol here,
 
 What’s the difference between snowmen and snowwomen?
 Snowballs.
+ siobhan-carol
  alice-and-ted
  master
 
  master
  
 ok now siobhan is carol and gunna do more stuff in the 3rd round
+
+ master
