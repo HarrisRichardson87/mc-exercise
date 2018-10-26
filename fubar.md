@@ -1,7 +1,7 @@
-This is what Bob & Carol did on Bob's computer when working on the first feature:
+Ted and alice are making for loops 
 
-Q: What do you call a sophisticated American?
-A: Canadian 
 
-Q: What time was it when the monster ate the Canadian prime minister?
-A: Eight P.M.
+for (var i = 0; i < 5; i++)
+{ console.log("hello there")}
+
+console.log("general kenobi");
