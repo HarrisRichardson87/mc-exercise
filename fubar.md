@@ -38,14 +38,10 @@ Snowballs. SCREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEms
 smaaaaash
 
 
-I im just gonna merge this is that okay bros??
- master
-
- master
+I im just gonna merge this is that okay bros?
  
 ok now siobhan is carol and gunna do more stuff in the 3rd round
 
- master
 
  harris-is-carol
 we are both updating master at the same time, its gunna be great
@@ -54,9 +50,7 @@ this is the 4th round and we are going to mess stuff up more and then try and fi
 
 
 yooo lemme merge this bros 
- master
 
 yooo lemme merge this bros 
 
 This is Andrew, errrr, Ted. Adding a new feature. Merge this Frosty the Broman
-master
