@@ -11,7 +11,6 @@ A: Canadian
 
 Q: What time was it when the monster ate the Canadian prime minister?
 A: Eight P.M.
- master
 
 Bob and Carol are doing very important stuff here. And this takes priority over reality. what a mess.
 
@@ -32,4 +31,3 @@ Ok Bob and Carol here,
 
 What’s the difference between snowmen and snowwomen?
 Snowballs.
- alice-and-ted
